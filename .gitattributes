@@ -1,6 +1,7 @@
+*.js linguist-detectable=false
 *.python linguist-detectable=true 60% 
 *.html linguist-detectable=true 30%
 *.css linguist-detectable=true 10%
 *.java linguist-detectable=false
 *.xml linguist-detectable=false
-*.javascript linguist-detectable=false
+
